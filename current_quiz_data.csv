@@ -1,0 +1,6 @@
+question_id,topic,difficulty_level,is_correct,time_spent
+1,Algebra,Easy,1,30
+2,Geometry,Medium,0,45
+3,Algebra,Hard,1,60
+4,Trigonometry,Medium,0,50
+5,Statistics,Easy,1,25

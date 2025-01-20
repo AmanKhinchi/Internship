@@ -1,0 +1,16 @@
+quiz_id,user_id,question_id,topic,difficulty_level,is_correct,time_spent
+101,1,1,Algebra,Easy,1,25
+101,1,2,Geometry,Medium,0,40
+101,1,3,Algebra,Hard,0,55
+102,1,1,Algebra,Easy,1,28
+102,1,4,Trigonometry,Medium,0,50
+102,1,5,Statistics,Easy,1,20
+103,1,2,Geometry,Medium,1,35
+103,1,3,Algebra,Hard,0,60
+103,1,4,Trigonometry,Medium,0,48
+104,1,1,Algebra,Easy,1,22
+104,1,2,Geometry,Medium,1,37
+104,1,5,Statistics,Easy,1,18
+105,1,3,Algebra,Hard,0,57
+105,1,4,Trigonometry,Medium,0,52
+105,1,5,Statistics,Easy,1,23
