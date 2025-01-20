@@ -13,9 +13,7 @@ Student Persona: Classifies users into personas (e.g., "Topic Specialist" or "St
 
 Setup Instructions:
 
-Clone the repository:
-
-1. Install dependencies:
+> Install dependencies:
    pip install -r requirements.txt
 
 How It Works:
