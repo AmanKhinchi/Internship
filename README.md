@@ -15,11 +15,7 @@ Setup Instructions:
 
 Clone the repository:
 
-1. Clone the repository:
-   git clone https://github.com/your-username/Quiz-Analysis.git
-   cd quiz-analyzer
-
-2. Install dependencies:
+1. Install dependencies:
    pip install -r requirements.txt
 
 How It Works:
